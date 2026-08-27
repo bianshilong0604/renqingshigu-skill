@@ -1,0 +1,9 @@
+# Local editor and personal runtime data
+.obsidian/
+实践记录/
+原材料/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp

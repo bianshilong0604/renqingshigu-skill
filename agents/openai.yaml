@@ -1,0 +1,7 @@
+interface:
+  display_name: "个人社会化应对"
+  short_description: "根据真实社交背景生成自然、高情商且能应对追问的回复"
+  default_prompt: "Use $personal-social-coach to help me handle this concrete social situation and draft a natural reply."
+
+policy:
+  allow_implicit_invocation: true
